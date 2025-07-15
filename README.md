@@ -1,4 +1,4 @@
-# Project React - Donation Management System
+# Project React - Food Donation System
 
 A comprehensive web application with React frontend and Express backend for donation management. This platform enables users to make donations, administrators to manage donations and users, and provides detailed analytics and reporting.
 
